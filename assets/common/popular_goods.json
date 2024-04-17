@@ -1,0 +1,38 @@
+[
+    {
+
+        "img":"assets/images/camera1.jpg",
+        "title":"PowerShot SX621 HS",
+        "manufacturer": "Canon",
+        "price": {
+            "weekday": "630 грн",
+            "weekend": "750 грн",
+            "week": "4380 грн",
+            "month": "12250 грн"
+        }
+    },
+    {
+
+        "img":"assets/images/camera2.jpg",
+        "title":"PowerShot SX622 HS",
+        "manufacturer": "Canon",
+        "price": {
+            "weekday": "632 грн",
+            "weekend": "752 грн",
+            "week": "4382 грн",
+            "month": "12252 грн"
+        }
+    },
+    {
+
+        "img":"assets/images/camera3.jpg",
+        "title":"PowerShot SX623 HS",
+        "manufacturer": "Canon",
+        "price": {
+            "weekday": "633 грн",
+            "weekend": "753 грн",
+            "week": "4383 грн",
+            "month": "12253 грн"
+        }
+    }
+]
